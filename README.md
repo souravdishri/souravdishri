@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/souravdishri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souravdishri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souravdishri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souravdishri" height="30" width="40" /></a>
-<a href="https://instagram.com/___chin_2---" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___chin_2---" height="30" width="40" /></a>
+<a href="https://instagram.com/___chin_2___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___chin_2---" height="30" width="40" /></a>
 <a href="https://discord.gg/souravdishri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="souravdishri" height="30" width="40" /></a>
 </p>
 
